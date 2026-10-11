@@ -1,13 +1,35 @@
 {
-  "background_color": "#87ceeb",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Flappy Bomb",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "FlappyBomb",
-  "start_url": "/",
-  "theme_color": "#000000",
+  "short_name": "Flappy Bomb",
+  "description": "Flappy Bomb - Addictive flappy game by G.N Developer. Avoid pipes and beat high score.",
   "id": "com.gndeveloper.flappybomb",
-  "description": "Flappy Bomb is a realistic and addictive flappy bird style casual arcade game. Tap to control the bomb, avoid pipes, collect coins, and beat your high score. Developed by G.N Developer. Fun and challenging game for all ages. Package com.gndeveloper.flappybomb."
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "./",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
