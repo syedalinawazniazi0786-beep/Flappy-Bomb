@@ -1,32 +1,29 @@
 {
-  "name": "Flappy Bomb - G.N Developer",
+  "name": "Flappy Bomb",
   "short_name": "Flappy Bomb",
-  "description": "Realistic Flappy Bird style bomb game by G.N Developer",
-  "start_url": "/",
+  "description": "Flappy Bomb is a realistic and addictive flappy bird style casual game. Tap to keep the bomb flying, avoid pipes, collect coins and beat your high score. Developed by G.N Developer. Package com.gndeveloper.flappybomb. Fun, challenging and perfect for all ages!",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#87CEEB",
   "theme_color": "#000000",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "./",
+  "id": "./index.html",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "./icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "./icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [],
-  "categories": [
-    "games",
-    "entertainment"
-  ],
+  "categories": ["games", "entertainment"],
   "lang": "en",
   "dir": "ltr"
 }
