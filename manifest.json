@@ -1,11 +1,26 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Flappy Bomb",
-  "orientation": "any",
-  "scope": "/",
-  "short_name":"Flappy Bomb",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "short_name": "Flappy Bomb",
+  "description": "Flappy Bomb - Realistic flappy bird bomb game by G.N Developer. Best casual game.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "./",
+  "id": "./index.html",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "lang": "en",
+  "dir": "ltr"
 }
