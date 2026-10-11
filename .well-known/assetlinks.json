@@ -1,0 +1,37 @@
+{
+  "name": "Flappy Bomb",
+  "short_name": "Flappy Bomb",
+  "description": "Flappy Bomb - Addictive flappy game by G.N Developer. Avoid pipes and beat high score.",
+  "id": "/Flappy-Bomb/",
+  "start_url": "/Flappy-Bomb/index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/Flappy-Bomb/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/Flappy-Bomb/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Flappy-Bomb/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Flappy-Bomb/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
