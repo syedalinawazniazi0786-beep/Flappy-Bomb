@@ -27,3 +27,14 @@
   "lang": "en",
   "dir": "ltr"
 }
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "syedalinawazniazi0786-beep.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "syedalinawazniazi0786-beep.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
