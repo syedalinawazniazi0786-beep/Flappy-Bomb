@@ -1,16 +1,13 @@
 {
-  "name": "Flappy Bomb",
-  "short_name": "Flappybpmb",
-  "start_url": "./index.html",
+  "background_color": "#87ceeb",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#87CEEB",
+  "name": "Flappy Bomb",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FlappyBomb",
+  "start_url": "/",
   "theme_color": "#000000",
-  "description": "An advanced Flappy Bomb game with AdMob support.",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "id": "com.gndeveloper.flappybomb",
+  "description": "Flappy Bomb is a realistic and addictive flappy bird style casual arcade game. Tap to control the bomb, avoid pipes, collect coins, and beat your high score. Developed by G.N Developer. Fun and challenging game for all ages. Package com.gndeveloper.flappybomb."
 }
